@@ -1,0 +1,95 @@
+﻿  BallToWall.cpp
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\angel.h(62): warning C4305: 'başlatılıyor': 'double' iken 'GLfloat' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\mat.h(707): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\mat.h(708): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\mat.h(709): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\mat.h(730): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\mat.h(732): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\mat.h(735): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\include\angel_commons\mat.h(752): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(322): warning C4838: 'FT_Pos ile 'GLuint arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(375): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(530): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(576): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(577): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(584): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(585): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(593): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(594): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(601): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(602): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(609): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(610): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(617): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(618): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(627): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(628): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(638): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(639): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(650): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(651): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(661): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(662): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(672): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(673): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(747): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1315): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1318): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1337): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1361): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1386): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1473): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1482): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1486): warning C4805: '==' : işlemde güvenli olmayan 'BOOLEAN' türü ve 'bool' türü karışımı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(1616): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2048): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2060): warning C4091: '': hiçbir değişken bildirimi yapılmadığında 'std::vector<unsigned int,std::allocator<_Ty>>' solunda yoksayılır
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2171): warning C4305: '+=': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2172): warning C4305: '+=': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2173): warning C4305: '+=': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2176): warning C4305: '-=': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2177): warning C4305: '-=': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2178): warning C4305: '-=': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2313): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2314): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2318): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2319): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2321): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2322): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\burak aydemir\desktop\finalproject\finalproject\balltowall.cpp(2331): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+     C:\Users\Burak Aydemir\Desktop\FinalProject\Release\FinalProject.lib kitaplığı ve C:\Users\Burak Aydemir\Desktop\FinalProject\Release\FinalProject.exp nesnesi oluşturuluyor
+LINK : warning LNK4098: defaultlib 'MSVCRTD' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+  Kod üretiliyor
+  26 of 1443 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  FinalProject.vcxproj -> C:\Users\Burak Aydemir\Desktop\FinalProject\Release\FinalProject.exe
